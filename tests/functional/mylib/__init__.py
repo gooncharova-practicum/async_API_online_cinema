@@ -1,0 +1,1 @@
+from .MyAssert import Assert
